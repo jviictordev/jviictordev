@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Python Developer<br>- Software Developer at @Docato<br>- Foco em automação, backend e soluções escaláveis<br>- Experiência com FastAPI, Playwright, NestJS, TypeScript<br>- Explorando o mundo de cloud e inteligência artificial</p>
+<p align="left">- Backend Developer<br>- Software Developer at @Docato<br>- Foco em automação, backend e soluções escaláveis<br>- Experiência com FastAPI, Playwright, NestJS, TypeScript<br>- Explorando o mundo de cloud e inteligência artificial</p>
 
 ###
 
